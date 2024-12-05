@@ -1,0 +1,4 @@
+[console_scripts]
+client = palindrome_service.client_node:main
+service = palindrome_service.service_node:main
+

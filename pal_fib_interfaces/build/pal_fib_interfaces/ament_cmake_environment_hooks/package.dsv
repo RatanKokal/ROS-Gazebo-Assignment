@@ -1,0 +1,4 @@
+source;share/pal_fib_interfaces/local_setup.bash
+source;share/pal_fib_interfaces/local_setup.dsv
+source;share/pal_fib_interfaces/local_setup.sh
+source;share/pal_fib_interfaces/local_setup.zsh

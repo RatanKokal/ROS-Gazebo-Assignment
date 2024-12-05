@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from pal_fib_interfaces/srv/Pal.srv
+// generated code does not contain a copyright notice
+
+
+module pal_fib_interfaces {
+  module srv {
+    struct Pal_Request {
+      string string_to_check;
+    };
+    struct Pal_Response {
+      boolean result;
+    };
+  };
+};

@@ -1,0 +1,6 @@
+{
+  "package_name": "pal_fib_interfaces",
+  "non_idl_tuples": [
+    "/home/ratan/ros2_ws_new/src/pal_fib_interfaces:srv/Pal.srv"
+  ]
+}

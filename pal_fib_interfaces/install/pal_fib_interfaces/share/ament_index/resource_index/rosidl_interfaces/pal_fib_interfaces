@@ -1,0 +1,4 @@
+srv/Pal.idl
+srv/Pal.srv
+srv/Pal_Request.msg
+srv/Pal_Response.msg
