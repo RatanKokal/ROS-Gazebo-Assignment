@@ -1,0 +1,3 @@
+[0.000000] (-) TimerEvent: {}
+[0.000136] (-) JobUnselected: {'identifier': 'pal_fib_interfaces'}
+[0.000167] (-) EventReactorShutdown: {}
